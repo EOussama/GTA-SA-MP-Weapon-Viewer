@@ -1,0 +1,9 @@
+c:\users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\bin\Debug\SAMP Weapon Code.exe.config
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\bin\Debug\SAMP Weapon Code.exe
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\bin\Debug\SAMP Weapon Code.pdb
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\obj\Debug\SAMP Weapon Code.csprojResolveAssemblyReference.cache
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\obj\Debug\SAMP_Weapon_Code.Form1.resources
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\obj\Debug\SAMP_Weapon_Code.Properties.Resources.resources
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\obj\Debug\SAMP Weapon Code.csproj.GenerateResource.Cache
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\obj\Debug\SAMP Weapon Code.exe
+C:\Users\oussa\onedrive\documents\visual studio 2015\Projects\SAMP Weapon Code\SAMP Weapon Code\obj\Debug\SAMP Weapon Code.pdb
